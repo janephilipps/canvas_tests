@@ -4,7 +4,7 @@ var ctx = canvas.getContext('2d');
 
 
 // Get well-formed markup
-var data = document.getElementById('svg2').innerHTML;
+var data = document.getElementById('svg1').innerHTML;
 
 
 // var data = '<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200">' +
